@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FeSkdpYfY1mgy+++HLUXpv+ioNSB24dmxYjV+vwacG0=",
+  "Hash": "ekiPdaSKNi31/sufhiL274pWFCMpRdIyG91LAg269nw=",
   "Source": "UserManagementWithIdentity",
   "BasePath": "_content/UserManagementWithIdentity",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\C#\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootbox.js\\bootbox.min.js",
+      "SourceId": "UserManagementWithIdentity",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\",
+      "BasePath": "_content/UserManagementWithIdentity",
+      "RelativePath": "lib/bootbox.js/bootbox.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootbox.js\\bootbox.min.js"
     },
     {
       "Identity": "D:\\C#\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

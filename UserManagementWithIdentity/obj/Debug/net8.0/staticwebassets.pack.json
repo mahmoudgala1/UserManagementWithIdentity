@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "D:\\C#\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootbox.js\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootbox.js\\bootbox.min.js"
+    },
+    {
       "Id": "D:\\C#\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
